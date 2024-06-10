@@ -1,1 +1,1 @@
-Add Amazon Sagemaker Docs integrations page (#7293)
+Updating a typo on paddlepaddle.md (#9108)
